@@ -34,4 +34,7 @@ Changelog:
     * 1.0.0 first release
 
 
-<!-- GitAds-Verify: 2XZE4YDV3G1KQU3JSCJS1HL8D31YODKE -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/yahoo-weather-java-api@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/yahoo-weather-java-api@github)
+
+
